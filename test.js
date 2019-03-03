@@ -1,1 +1,3 @@
-//New js file added by Yuva 
+//New js file added by Yuva
+
+const a =10;
