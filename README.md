@@ -24,4 +24,4 @@ Project which in cloud
 **Ex:** You have your AJS project in your GIT hub 
  
 
- Yuva and Homa dded new code into readme file  
+ Yuva and Homa added new code into readme file  
